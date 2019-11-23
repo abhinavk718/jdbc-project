@@ -1,0 +1,8 @@
+10,Anushka,10000,F
+11,Abhinav,10000,M
+12,Ramesh,10000,M
+13,Kiran,10000,F
+14,Himanshu,45000,M
+15,priya,20000,F
+17,Devsena,120000,F
+15,Manjesh,30000,M

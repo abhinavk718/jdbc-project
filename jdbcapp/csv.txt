@@ -1,0 +1,4 @@
+14,Himanshu,45000,M
+15,priya,20000,F
+17,Devsena,120000,F
+18,Manjesh,30000,M
